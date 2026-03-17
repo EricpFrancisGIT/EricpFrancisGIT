@@ -105,7 +105,7 @@
 
 ## 📫 Let’s Connect
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/eric-francis-ms/
+- 🔗 LinkedIn: https://www.linkedin.com/in/eric-p-francis/
 - 📝 Medium: https://medium.com/@eric.francis1103
 - 💻 GitHub: https://github.com/EricpFrancisGIT
 
